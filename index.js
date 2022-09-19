@@ -12,7 +12,7 @@ import cli from './utils/cli.js';
 import log from './utils/log.js';
 
 
-const input = cli.input;
+const input = cli.input; 
 const flags = cli.flags;
 const { clear, debug } = flags;
 
