@@ -1,4 +1,4 @@
-
+<!-- 
 # Node.js Boilerplate
 
 This project is for backend developers with node js. It create the "Mongoose models, routers and controllers" with cli command line.
@@ -36,4 +36,4 @@ For support send email to address bilal@thejs.app
     
 ```bash 
   yvr -n <name>
-```
+``` -->
